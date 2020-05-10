@@ -1,0 +1,8 @@
+
+black = "*"
+pylint = "*"
+pytest = "*"
+flake8 = "*"
+flask = "*"
+requests = "*"
+
